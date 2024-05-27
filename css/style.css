@@ -81,3 +81,11 @@
        color: #ffffff;
        cursor: pointer;
    }
+
+   .sect-button:hover {
+       background-color: #404BBF;
+   }
+
+   .sect-button:focus {
+       background-color: #404BBF
+   }
