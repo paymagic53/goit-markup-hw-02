@@ -126,3 +126,15 @@
        text-transform: capitalize;
        color: #2e2f42
    }
+
+   .sect-tree-list {
+       background-color: #FFFFFF
+   }
+
+   .title-sect-tree {
+       font-weight: 500;
+       font-size: 20px;
+       line-height: 1.2;
+       letter-spacing: 0.02em;
+       color: #2e2f42
+   }
