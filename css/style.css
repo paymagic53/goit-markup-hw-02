@@ -41,6 +41,10 @@
        color: #404bbf
    }
 
+   .link:focus {
+       color: #404bbf
+   }
+
    /* adress */
    .info {
        font-style: normal;
