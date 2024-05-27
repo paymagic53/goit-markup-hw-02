@@ -37,11 +37,11 @@
        transition: color 0.3s ease;
    }
 
-   .link-item:hover .link {
+   .link:hover {
        color: #404bbf;
    }
 
-   .link-item:focus .link {
+   .link:focus {
        color: #404bbf;
    }
 
@@ -54,5 +54,4 @@
        line-height: 1.5;
        letter-spacing: 0.02em;
        color: #434455;
-
    }
