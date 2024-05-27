@@ -37,6 +37,10 @@
 
    }
 
+   .link:hover {
+       color: #404bbf
+   }
+
    /* adress */
    .info {
        font-style: normal;
