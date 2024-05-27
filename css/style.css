@@ -34,15 +34,7 @@
        line-height: 1.5;
        letter-spacing: 0.02em;
        color: #2e2f42;
-       transition: color 0.3s ease;
-   }
 
-   .link:hover {
-       color: #404bbf;
-   }
-
-   .link:focus {
-       color: #404bbf;
    }
 
    /* adress */
