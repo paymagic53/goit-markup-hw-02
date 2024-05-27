@@ -37,10 +37,10 @@
        transition: color 0.3s ease;
    }
 
-   .link:hover {
+   .link-item:hover .link {
        color: #404bbf;
    }
 
-   .link:focus {
+   .link-item:focus .link {
        color: #404bbf;
    }
