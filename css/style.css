@@ -9,6 +9,10 @@
        color: #4d5ae5;
    }
 
+   a {
+       text-decoration: none;
+   }
+
    .logo-b {
        color: #2e2f42
    }
